@@ -1,0 +1,4 @@
+A. Everything is an optimization problem.
+B. We can't really solve most optimization problems.
+C. But certain problem classes can be solved efficiently and reliably.
+D. If an optimization problem is convex, then it can be solved exactlt and quickly.
